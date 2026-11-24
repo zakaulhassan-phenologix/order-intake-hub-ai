@@ -1,1 +1,0 @@
-"""Header Extraction Service."""
